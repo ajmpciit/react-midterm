@@ -1,3 +1,3 @@
-export function add(a, b) {
+export function subtract(a, b) {
     return Number(a) + Number(b);
 }
