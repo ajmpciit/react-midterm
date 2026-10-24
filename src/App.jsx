@@ -8,7 +8,7 @@ return (
 <main style={{ padding: "2rem", fontFamily: "Arial" }}>
 <h1>Midterm Calculator</h1>
 <p>Student: Anjhellica-Jeremy Pacon-Gonzales</p>
-<p>Application Version: 1.1</p>
+<p>Application Version: 2.0</p>
 <div>
 <label>
 First number:
